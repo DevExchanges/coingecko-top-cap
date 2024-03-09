@@ -1,0 +1,26 @@
+{
+  "name": "coingecko-top-cap",
+  "version": "1.0.0",
+  "description": "Get top market cap token",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/test.js"
+  },
+  "keywords": [
+    "coingecko-top-cap"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevExchanges/coingecko-top-cap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DevExchanges/coingecko-top-cap/issues"
+  },
+  "homepage": "https://github.com/DevExchanges/coingecko-top-cap#readme",
+  "author": "DevExchanges",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "devex-customize-logger": "^1.0.1"
+  }
+}
